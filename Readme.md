@@ -32,7 +32,7 @@ Run the project on your local machine (I've only tested it on an IOS Iphone Simu
 ## Submodules
 
 This repository depends on this other one as a submodule.
-https://github.com/nasy/photobooth-common
+https://github.com/nasy/react-demo-common
 
 To create the submodule I've used:
 git submodule add git@github.com:nasy/photobooth-common.git common
